@@ -37,4 +37,15 @@ Here are the tools and technologies I work with to build amazing projects:
 ---
 
 Feel free to explore my projects where I utilize these tools and languages to create innovative solutions. 🚀
+---
+
+<details>
+
+  <summary><b>Stats 📊</b> (click me)</summary>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Reon23&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+</details>
 
