@@ -16,13 +16,13 @@ Welcome to my GitHub profile! I'm a **Web Developer** and **Game Developer** wit
 
 Here are the tools and technologies I work with to build amazing projects:
 
-
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/701b96b8-e807-4f0f-bbdb-ad56eff17bda" alt="HTML Custom" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/b02363e4-0125-49c2-8bdd-a249bc9dd597" alt="CSS Custom" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/406fe45f-725c-4bd8-984e-54f5a48dc3e4" alt="JavaScript Custom" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/426d0ae4-480f-4b51-bfcc-f76b60b292ab" alt="React Custom" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/f885c0df-9be9-4b6e-bbbd-6e91aad22f71" alt="Tailwind Custom" width="50" height="50"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50" height="50"/>
