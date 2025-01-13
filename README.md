@@ -1,16 +1,14 @@
-## Hi there 👋
+![About me](https://github.com/user-attachments/assets/0588d10d-419a-498a-9bc7-8e03f0d3cfd4)
 
-<!--
-**Reon23/Reon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Reon 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a **Web Developer** and **Game Developer** with a passion for crafting innovative and impactful digital experiences. From designing dynamic web applications to creating immersive game worlds, I love turning ideas into reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do:
+- **Web Development**: Building modern, responsive websites and web applications.
+- **Game Development**: Designing and programming engaging games.
+- **Creative Coding**: Experimenting with new technologies and frameworks to push the boundaries of creativity.
+
+---
