@@ -23,13 +23,13 @@ Here are the tools and technologies I work with to build amazing projects:
   <img src="https://github.com/user-attachments/assets/426d0ae4-480f-4b51-bfcc-f76b60b292ab" alt="React Custom" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/f885c0df-9be9-4b6e-bbbd-6e91aad22f71" alt="Tailwind Custom" width="50" height="50"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/f75be429-ff8f-463d-ba8e-5fbd845dbe3c" alt="Node.js" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/d5308691-7f8b-446b-b9a2-2c6737d0a648" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/16bace6e-0656-4e92-b117-7983d14968e2" alt="C" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/1554c450-8478-47dd-bdf1-c781e3948f9b" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/b92a3106-a457-4cb5-93b8-31f6ea41efa1" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50"/>
 </p>
