@@ -19,8 +19,8 @@ Here are the tools and technologies I work with to build amazing projects:
 <p>
   <img src="https://github.com/user-attachments/assets/701b96b8-e807-4f0f-bbdb-ad56eff17bda" alt="HTML Custom" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/b02363e4-0125-49c2-8bdd-a249bc9dd597" alt="CSS Custom" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/406fe45f-725c-4bd8-984e-54f5a48dc3e4" alt="JavaScript Custom" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/426d0ae4-480f-4b51-bfcc-f76b60b292ab" alt="React Custom" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/406fe45f-725c-4bd8-984e-54f5a48dc3e4" alt="JavaScript Custom" width="50" height="50"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Custom" width="50" height="50"/>        
   <img src="https://github.com/user-attachments/assets/f885c0df-9be9-4b6e-bbbd-6e91aad22f71" alt="Tailwind Custom" width="50" height="50"/>
   
   <img src="https://github.com/user-attachments/assets/f75be429-ff8f-463d-ba8e-5fbd845dbe3c" alt="Node.js" width="50" height="50"/>
