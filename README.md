@@ -25,6 +25,7 @@ Here are the tools and technologies I work with to build amazing projects:
   
   <img src="https://github.com/user-attachments/assets/f75be429-ff8f-463d-ba8e-5fbd845dbe3c" alt="Node.js" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/d5308691-7f8b-446b-b9a2-2c6737d0a648" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="50" height="50" />       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/16bace6e-0656-4e92-b117-7983d14968e2" alt="C" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/1554c450-8478-47dd-bdf1-c781e3948f9b" alt="C++" width="50" height="50"/>
