@@ -46,6 +46,7 @@ Feel free to explore my projects where I utilize these tools and languages to cr
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Reon23&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reon23&theme=blue-green&hide_border=true" />
 </p>
 
 </details>
