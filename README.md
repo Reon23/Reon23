@@ -45,8 +45,9 @@ Feel free to explore my projects where I utilize these tools and languages to cr
   <summary><b>Stats 📊</b> (click me)</summary>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Reon23&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reon23&theme=blue-green&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reon23&theme=blue-green&show_icons=true&hide_border=true&count_private=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reon23&theme=blue-green&show_icons=true&hide_border=true&layout=compact" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reon23&theme=blue-green&hide_border=true" height="200"/>
 </p>
 
 </details>
