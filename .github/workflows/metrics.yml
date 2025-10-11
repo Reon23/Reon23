@@ -94,4 +94,6 @@ jobs:
           git config --global user.email "action@github.com"
           git add dist/*
           git commit -m "Update Snake game" || echo "Nothing to commit"
-          git push
+          git pull --rebase origin main
+          git push origin main
+
