@@ -7,6 +7,10 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: read
+      pull-requests: read
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
