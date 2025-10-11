@@ -14,6 +14,11 @@ jobs:
       pull-requests: read
 
     steps:
+      # Checkout repository (required for git commands)
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Generate main metrics card
       - name: Generate main metrics card
         uses: lowlighter/metrics@latest
         if: always()
@@ -25,6 +30,7 @@ jobs:
           config_timezone: Asia/Kolkata
           filename: github-metrics.svg
 
+      # Generate full-year activity calendar
       - name: Generate full-year activity calendar
         uses: lowlighter/metrics@latest
         if: always()
@@ -37,6 +43,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
 
+      # Generate recent activity
       - name: Generate recent activity
         uses: lowlighter/metrics@latest
         if: always()
@@ -51,6 +58,7 @@ jobs:
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           config_timezone: Asia/Kolkata
 
+      # Generate languages card
       - name: Generate languages card
         uses: lowlighter/metrics@latest
         if: always()
@@ -65,10 +73,12 @@ jobs:
           plugin_languages_recent_days: 60
           config_timezone: Asia/Kolkata
           
+      # Prepare dist folder for Snake game
       - name: Prepare dist folder
         run: mkdir -p dist
       
-      - name: Commit Snake Game
+      # Generate Snake game
+      - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -77,11 +87,11 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
+      # Commit Snake game files
       - name: Commit generated Snake files
         run: |
           git config --global user.name "${{ github.repository_owner }}"
           git config --global user.email "action@github.com"
           git add dist/*
-          git commit -m "Update snake game" || echo "Nothing to commit"
+          git commit -m "Update Snake game" || echo "Nothing to commit"
           git push
-
