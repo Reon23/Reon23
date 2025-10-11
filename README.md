@@ -1,3 +1,5 @@
-![Main Metrics](./github-metrics.svg)
-![Recent-activity](./metrics.plugin.activity.svg)
-![Full-year GitHub Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+<p align="center">
+  <img src="./github-metrics.svg">
+  <br>
+  <img src="./metrics.plugin.isocalendar.fullyear.svg">
+</p>
