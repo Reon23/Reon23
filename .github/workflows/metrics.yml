@@ -44,6 +44,18 @@ jobs:
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 60
           config_timezone: Asia/Kolkata
+
+      # Generate Pinned Repositories
+      - name: Pinned repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.repositories.pinned.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 3
+          config_timezone: Asia/Kolkata
+
           
       # Prepare dist folder for Snake game
       - name: Prepare dist folder
