@@ -60,13 +60,17 @@ jobs:
       - name: Topics icons
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.icons.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          user: Reon23
+          template: classic
+          base: header
+          filename: test.topics.svg
           plugin_topics: yes
-          plugin_topics_limit: 0
           plugin_topics_mode: mastered
+          plugin_topics_limit: 0
+          plugin_topics_repo: user
           config_timezone: Asia/Kolkata
+
           
       # Prepare dist folder for Snake game
       - name: Prepare dist folder
