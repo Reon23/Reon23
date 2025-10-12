@@ -65,7 +65,7 @@ jobs:
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          plugin_topics_mode: mastered
           config_timezone: Asia/Kolkata
           
       # Prepare dist folder for Snake game
