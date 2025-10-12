@@ -41,4 +41,5 @@
     </span>
   </span>
 </p>
+<img width="1700" height="460" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=0:EEFF00,100:a82da8&descAlign=40&descAlignY=41&rotate=0&section=footer&reversal=false" />
 
