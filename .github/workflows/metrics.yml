@@ -58,6 +58,7 @@ jobs:
 
       # Generate Topic icons
       - name: Topics icons
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
