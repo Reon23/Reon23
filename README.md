@@ -41,6 +41,4 @@
     </span>
   </span>
 </p>
-<img width="1700" height="460" alt="github-header-banner(3)" src="https://github.com/user-attachments/assets/5967854c-51f2-4627-8dc0-8358cf4c2e32" />
-
 
