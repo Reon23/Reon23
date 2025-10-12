@@ -10,7 +10,7 @@
   </picture>
   <span align="center">
     <a href="https://github.com/Reon23?tab=repositories" align="center" >
-      <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reon23&theme=transparent&hide_border=true&layout=compact&langs_count=12&locale=en&custom_title=Technologies" alt="Technologies" align="right"/>
+      <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reon23&theme=transparent&hide_border=true&layout=compact&langs_count=12&locale=en&custom_title=Languages" alt="Languages" align="right"/>
     </a>
   </span>
 </p>
