@@ -1,16 +1,17 @@
 
 <img width="1700" height="460" alt="github-header-banner(4)" src="https://github.com/user-attachments/assets/7721163a-fea3-4458-82cc-b5daa8b0cdf2" />
 <p align="center">
-  <img src="./github-metrics.svg" width="49%">
-  <a href="https://github.com/Reon23?tab=repositories" align="center" >
-    <img src="./metrics.plugin.repositories.pinned.svg" width="49%">
-  </a>
-  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
     <img alt="github-snake" src="dist/github-snake.svg"/>
   </picture>
+  <br>
+  <br>
+  <img src="./github-metrics.svg" width="49%">
+  <a href="https://github.com/Reon23?tab=repositories" align="center" >
+    <img src="./metrics.plugin.repositories.pinned.svg" width="49%">
+  </a>
   <br>
   <br>
   <span align="center">
