@@ -3,7 +3,8 @@
 <p align="center">
   <br>
   <span>I'm a passionate <b>Web & Game Developer</b> who loves building innovative digital experiences — from full-stack web apps to immersive gameplay systems. I enjoy experimenting with new technologies, solving real-world problems, and turning creative ideas into code</span>
-  <hr>
+  <br>
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
