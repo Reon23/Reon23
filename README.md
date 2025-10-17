@@ -1,6 +1,9 @@
 
 <img width="1700" height="460" alt="github-header-banner(4)" src="https://github.com/user-attachments/assets/7721163a-fea3-4458-82cc-b5daa8b0cdf2" />
 <p align="center">
+  <br>
+  <span>I'm a passionate <b>Web & Game Developer</b> who loves building innovative digital experiences — from full-stack web apps to immersive gameplay systems. I enjoy experimenting with new technologies, solving real-world problems, and turning creative ideas into code</span>
+  <hr>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
