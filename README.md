@@ -5,19 +5,6 @@
   <span>I'm a passionate <b>Web & Game Developer</b> who loves building innovative digital experiences — from full-stack web apps to immersive gameplay systems. I enjoy experimenting with new technologies, solving real-world problems, and turning creative ideas into code</span>
   <br>
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg"/>
-  </picture>
-  <br>
-  <br>
-  <img src="./github-metrics.svg" width="49%">
-  <a href="https://github.com/Reon23?tab=repositories" align="center" >
-    <img src="./metrics.plugin.repositories.pinned.svg" width="49%">
-  </a>
-  <br>
-  <br>
   <span align="center">
     <a href="https://github.com/Reon23?tab=repositories">
       <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reon23&theme=transparent&hide_border=true&layout=compact&langs_count=12&locale=en&custom_title=Stack:" alt="Languages" align="left"/>
