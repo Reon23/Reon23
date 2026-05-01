@@ -6,9 +6,6 @@
   <br>
   <br>
   <span align="center">
-    <a href="https://github.com/Reon23?tab=repositories">
-      <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reon23&theme=transparent&hide_border=true&layout=compact&langs_count=12&locale=en&custom_title=Stack:" alt="Languages" align="left"/>
-    </a>
     <span>
       <br>
       <br>
@@ -34,5 +31,4 @@
     </span>
   </span>
 </p>
-<img width="1700" height="460" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=0:EEFF00,100:a82da8&descAlign=40&descAlignY=41&rotate=0&section=footer&reversal=false" />
 
